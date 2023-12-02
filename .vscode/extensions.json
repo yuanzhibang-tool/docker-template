@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "github.copilot-labs",
+        "github.copilot-chat",
+        "ms-azuretools.vscode-docker",
+        "gruntfuggly.todo-tree",
+        "formulahendry.code-runner",
+        "aaron-bond.better-comments"
+    ]
+}

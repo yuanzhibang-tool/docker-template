@@ -1,0 +1,22 @@
+{
+    "name": "docker-dev",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "docker-dev",
+    "runServices": [
+        "docker-dev"
+    ],
+    "workspaceFolder": "/home/developer/workspace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "github.copilot",
+                "github.copilot-labs",
+                "github.copilot-chat",
+                "ms-azuretools.vscode-docker",
+                "gruntfuggly.todo-tree",
+                "formulahendry.code-runner",
+                "aaron-bond.better-comments"
+            ]
+        }
+    }
+}
